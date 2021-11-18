@@ -1,0 +1,28 @@
+.box1 {
+    background-color: #A1A5A6;
+    height: 120px;
+}
+
+.titulo-footer {
+    color: black !important;
+    font-size: 30px !important;
+    font-family: Cormorant, serif !important;
+}
+
+.icons {
+    font-size: 60px !important;
+     color: black !important;
+}
+
+.git {
+    font-size: 50px !important; 
+    color: black !important;
+}
+
+.box2 {
+    background-color: #D9D9D9 !important; 
+}
+
+.company {
+    color: black !important;
+}

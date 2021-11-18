@@ -1,0 +1,27 @@
+.imagemcadastro {
+    background-image: url(https://i.imgur.com/I5SQWXD.png); 
+    background-repeat: no-repeat; 
+    width: 100vh; 
+    min-height: 100vh; 
+    background-size: cover; 
+    background-position: center;
+}
+
+.bold2 {
+    font-weight: bold !important;
+}
+
+.button-cadastrar {
+    background-color: #003F63 !important; 
+    color: white !important; 
+    font-family: Cormorant, serif !important;
+}
+
+.button-cancelar {
+    font-family: Cormorant, serif !important;
+    margin-right: 20px !important;
+}
+
+.textDecorationNone1 {
+    text-decoration: none !important;
+}

@@ -1,0 +1,18 @@
+.text-decorator-none4{
+    text-decoration: none;
+}
+
+.button-posts {
+    background-color: #003F63 !important; 
+    color: white !important; 
+    font-family: Cormorant, serif !important;
+    text-decoration: none !important;
+}
+
+.button-posts-del {
+    background-color: #f21616 !important; 
+    color: white !important; 
+    font-family: Cormorant, serif !important;
+    text-decoration: none !important;
+}
+

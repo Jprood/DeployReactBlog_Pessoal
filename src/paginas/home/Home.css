@@ -1,0 +1,29 @@
+.caixa {
+    background-color: #353d40;
+}
+
+.titulo {
+    color: #ffffff !important;
+    font-weight: bold !important;
+    font-family: Cormorant, serif !important;
+}
+
+.texto {
+    color: #ffffff !important;
+    font-weight: bold !important;
+    font-family: hilanka, cursive !important;
+}
+
+.button {
+    background-color: #003F63 !important; 
+    color: white !important; 
+    font-family: Cormorant, serif !important;
+}
+
+.textnone {
+    text-decoration: none;
+}
+
+.postagens {
+    background-color: #353d40;
+}

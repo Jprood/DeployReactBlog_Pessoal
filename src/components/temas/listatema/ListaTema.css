@@ -1,0 +1,17 @@
+.text-decorator-none3{
+    text-decoration: none;
+}
+
+.button-tema {
+    background-color: #003F63 !important; 
+    color: white !important; 
+    font-family: Cormorant, serif !important;
+    text-decoration: none !important;
+}
+
+.button-tema-del {
+    background-color: #f21616 !important; 
+    color: white !important; 
+    font-family: Cormorant, serif !important;
+    text-decoration: none !important;
+}
